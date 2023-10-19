@@ -44,6 +44,7 @@ if(theScore<=39){
 
 }
 
+// switch statement
 
 
 
@@ -60,3 +61,7 @@ if(theScore<=39){
 
 
 //loops
+
+for ()
+
+//for loops
