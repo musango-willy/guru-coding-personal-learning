@@ -1,5 +1,8 @@
 console.log("Hello World")
 
+
+//accessing objects using dot nptation
+
 const person={
     firstname:wycliffe,
     middlename:musango,
