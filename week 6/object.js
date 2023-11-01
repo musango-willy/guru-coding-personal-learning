@@ -18,5 +18,7 @@ const person={
 }
 const personFirstname=person.firstname;
 
+console.log(person.firstname);
+
 //bracket notation
 
