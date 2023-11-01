@@ -16,3 +16,7 @@ const person={
     }
 
 }
+const personFirstname=person.firstname;
+
+//bracket notation
+
