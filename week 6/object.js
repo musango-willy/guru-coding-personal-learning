@@ -1,6 +1,14 @@
 console.log("Hello World")
 
 
+
+const dA=[
+    ["orange","purple"],
+    ["rice","beans",["magi","salt"]]
+]
+
+console.log([1][2][1]);
+
 //accessing objects using dot nptation
 
 const person={
