@@ -12,3 +12,20 @@
 
 // accessing elements using id
 // accessing elements using classname
+
+//<p id="demo">Happy Coding</p>
+
+<ul>//unordered list
+    
+    <li class="item">Item 1</li>
+    <li class="item">Item 2</li>
+    <li class="item">Item 3</li>
+</ul>
+</body>
+<script>
+    const elements =document.getElementsByClassName("item")
+    for(const element of elements){
+        console.log(element.textContent);
+    }
+    </script>
+</html>
